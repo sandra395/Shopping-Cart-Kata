@@ -1,0 +1,18 @@
+# Files created when building the project
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Visual Studio files
+.vs/
+*.user
+
+# VS Code files
+.vscode/
+
+# Test results
+TestResults/
+
+# Mac files
+.DS_Store
