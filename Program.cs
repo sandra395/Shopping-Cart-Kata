@@ -18,6 +18,6 @@ Console.WriteLine("Total items: " + cart.GetTotalCount());
 Console.WriteLine("Total price in pence: " + cart.GetTotalInPence());
 
 //create a separate empty cart to test the empty case
-Cart emptycard = new Cart();
-Console.WriteLine("Empty cart items: " + emptycard.GetTotalCount());
-Console.WriteLine("Empty cart price: " + emptycard.GetTotalInPence());
+Cart emptycart = new Cart();
+Console.WriteLine("Empty cart items: " + emptycart.GetTotalCount());
+Console.WriteLine("Empty cart price: " + emptycart.GetTotalInPence());
