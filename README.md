@@ -29,10 +29,11 @@ This project allows users to add products, count items and calculate the total p
   ```bash
   dotnet run
 
-  To run the unit tests, use:
+- To run the unit tests, use:
   dotnet test ShoppingCart.Tests/ShoppingCart.Tests.csproj
 
-**Using AI**
+**Using AI** 
+
  I used ChatGPT and Google Gemini to help me with this project, as I am new to C# and .NET.
 
  I used these tools to:
