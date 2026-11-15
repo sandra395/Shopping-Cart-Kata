@@ -30,7 +30,10 @@ This project allows users to add products, count items and calculate the total p
   dotnet run
 
 - To run the unit tests, use:
-  dotnet test ShoppingCart.Tests/ShoppingCart.Tests.csproj
+
+ ```bash
+dotnet test ShoppingCart.Tests/ShoppingCart.Tests.csproj
+```
 
 **Using AI** 
 
