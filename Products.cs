@@ -1,4 +1,4 @@
-// Products in the shopping cart
+// Products details
 public class Product
 {
     public String Code { get; set; } = " ";
