@@ -15,7 +15,7 @@ This project allows users to add products, count items and calculate the total p
 
 ## Project files
 
-- `Product.cs` — Stores a product's details such as a code, name, and price.
+- `Products.cs` — Stores a product's details such as a code, name, and price.
 - `Cart.cs` — Adds products, counts items, and calculates the total.
 - `Program.cs` — Runs the shopping cart example.
 - `ShoppingCart.Tests/UnitTest1.cs` — Contains unit tests using xUnit.
@@ -26,8 +26,11 @@ This project allows users to add products, count items and calculate the total p
 - Download or clone this project from GitHub.
 - Open the terminal in the `ShoppingCart` folder.
 - Run the following command to start the application:
-  ```bash
-  dotnet run
+  
+```bash
+dotnet run
+```
+
 
 - To run the unit tests, use:
 
